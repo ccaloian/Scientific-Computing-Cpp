@@ -1,4 +1,5 @@
-#Guide to Scientific Computing in C++ Solutions
+Guide to Scientific Computing in C++ Solutions
+==============================================
 
 This repository contains solutions to exercises from the book
 Joe Pitt-Francis and Johnatan Whiteley, "_Guide to Scientific Computing in C++_". Springer, 2012.
