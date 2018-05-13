@@ -1,0 +1,6 @@
+# data files
+*.dat
+*.txt
+
+# executable files
+*.out
