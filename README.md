@@ -8,5 +8,5 @@ The code is organized per chapters, and the file name convention is `ex<exercise
 
 __IMPORTANT__:  
 * _The presented solutions come with no correctness guarantees_.
-* _Exercises are solved with tools presented in the book up their corresponding chapter_. 
+* _Exercises are solved with tools and concepts introduced in the book up to the corresponding chapter_. 
 
